@@ -1,22 +1,18 @@
-# Hi 👋, I'm Geeta Solanki  
-
-🌟 A passionate **Frontend Developer** from India  
-💻 Currently learning **React.js, Tailwind CSS, and MERN Stack**
-🎯 Goal: To become a skilled **MernStack Developer**
-
----
-
 ## 🚀 Skills & Tools  
-- HTML | CSS | JavaScript | React.js  
-- Tailwind CSS | Bootstrap
-- Node.js | Express.js | MongoDB 
-- Git & GitHub  
 
----
+**Frontend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>  
 
-## 📫 Connect with me  
-- LinkedIn: [https://www.linkedin.com/in/geeta-solanki/]
-- Email: geetasolanki9244@gmail.com  
+**Backend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>  
 
----
-⭐️ From [Geeta Solanki](https://github.com/Geeta-75)
+**Tools**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
