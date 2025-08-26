@@ -36,7 +36,6 @@
 
 ## 🌐 Connect with Me
 
-📂 Portfolio: [eshop-tcj.netlify.app](https://eshop-tcj.netlify.app)  
 🔗 LinkedIn: [linkedin.com/in/geeta-solanki](https://www.linkedin.com/in/geeta-solanki/)  
 💬 Email: geetasolanki9244@gmail.com  
 
