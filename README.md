@@ -36,7 +36,7 @@
 
 ## 🌐 Connect with Me
 
-📂 Portfolio: [Visit My Portfolio](https://geeta-portfolio.vercel.app)
+📂 Portfolio: [Visit My Portfolio](https://portfolio-q22ferpwi-geeta-solankis-projects.vercel.app/)
 
 🔗 LinkedIn: [linkedin.com/in/geeta-solanki](https://www.linkedin.com/in/geeta-solanki/)  
 💬 Email: geetasolanki9244@gmail.com  
